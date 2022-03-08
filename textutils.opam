@@ -12,7 +12,6 @@ build: [
 depends: [
   "ocaml" {>= "4.08.0"}
   "core"
-  "core_kernel"
   "core_unix"
   "ppx_jane"
   "textutils_kernel"
